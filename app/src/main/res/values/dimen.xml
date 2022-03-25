@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="searchBarMargin">10dp</dimen>
+    <dimen name="cardViewRadius">5dp</dimen>
+    <dimen name="cardViewElevation">5dp</dimen>
+    <dimen name="cardViewMargin">5dp</dimen>
+    <dimen name="cardViewImageWidth">120dp</dimen>
+    <dimen name="cardViewImageHeight">120dp</dimen>
+    <dimen name="imageTitleMargin">100dp</dimen>
+    <dimen name="titleFontSize">20sp</dimen>
+</resources>
